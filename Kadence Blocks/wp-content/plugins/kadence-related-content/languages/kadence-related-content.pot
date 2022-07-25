@@ -1,0 +1,997 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Kadence Related Content\n"
+"POT-Creation-Date: 2020-08-11 23:45-0600\n"
+"PO-Revision-Date: 2015-01-10 00:32-0700\n"
+"Last-Translator: \n"
+"Language-Team: Kadence Themes\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: admin/cmb_select2/select2.js\n"
+"X-Poedit-SearchPathExcluded-1: admin/redux/assets/js\n"
+"X-Poedit-SearchPathExcluded-2: admin/options_assets/extensions/vendor_support\n"
+
+#: admin/admin_options.php:25
+msgid "Related Content"
+msgstr ""
+
+#: admin/admin_options.php:26
+msgid "Kadence Related Content"
+msgstr ""
+
+#: admin/admin_options.php:44
+msgid "Thank you for using Kadence Related Content by <a href=\"https://kadencethemes.com/\" target=\"_blank\">Kadence Themes</a>."
+msgstr ""
+
+#: admin/admin_options.php:106
+msgid "Related Content Options"
+msgstr ""
+
+#: admin/admin_options.php:114
+msgid "Default title for carousel."
+msgstr ""
+
+#: admin/admin_options.php:119
+msgid "Choose default carousel columns"
+msgstr ""
+
+#: admin/admin_options.php:128
+msgid "Auto play carousel?"
+msgstr ""
+
+#: admin/admin_options.php:134
+msgid "Carousel auto play speed (seconds)"
+msgstr ""
+
+#: admin/admin_options.php:144
+msgid "Carousel Scroll"
+msgstr ""
+
+#: admin/admin_options.php:145
+msgid "1 Item"
+msgstr ""
+
+#: admin/admin_options.php:145
+msgid "Paginated"
+msgstr ""
+
+#: admin/admin_options.php:152
+msgid "Carousel Style"
+msgstr ""
+
+#: admin/admin_options.php:157
+msgid "Use woocommerce product loop for product output"
+msgstr ""
+
+#: admin/admin_options.php:158
+msgid "All options past this will not effect products if enabled."
+msgstr ""
+
+#: admin/admin_options.php:164
+msgid "Align text"
+msgstr ""
+
+#: admin/admin_options.php:165
+msgid "Left"
+msgstr ""
+
+#: admin/admin_options.php:165
+msgid "Center"
+msgstr ""
+
+#: admin/admin_options.php:165
+msgid "Right"
+msgstr ""
+
+#: admin/admin_options.php:172
+msgid "Show Post image?"
+msgstr ""
+
+#: admin/admin_options.php:178
+msgid "Show post type?"
+msgstr ""
+
+#: admin/admin_options.php:184
+msgid "Show post title?"
+msgstr ""
+
+#: admin/admin_options.php:190
+msgid "Show post date?"
+msgstr ""
+
+#: admin/admin_options.php:191
+msgid "For products this shows rating if enabled."
+msgstr ""
+
+#: admin/admin_options.php:197
+msgid "Show post excerpt?"
+msgstr ""
+
+#: admin/admin_options.php:203
+msgid "Post excerpt word count"
+msgstr ""
+
+#: admin/admin_options.php:213
+msgid "Post excerpt \"Read More\" text"
+msgstr ""
+
+#: admin/admin_options.php:220
+msgid "Show post price?"
+msgstr ""
+
+#: admin/cmb/includes/CMB2.php:578
+msgid "Click to toggle"
+msgstr ""
+
+#: admin/cmb/includes/CMB2_Base.php:422
+#, php-format
+msgid "The \"%1$s\" field parameter has been deprecated in favor of the \"%1$s\" parameter."
+msgstr ""
+
+#: admin/cmb/includes/CMB2_Base.php:426
+#, php-format
+msgid "Using the \"%1$s\" field parameter as a callback has been deprecated in favor of the \"%1$s\" parameter."
+msgstr ""
+
+#: admin/cmb/includes/CMB2_Base.php:456
+#, php-format
+msgid "%1$s was called with a parameter that is <strong>deprecated</strong> since version %2$s! %3$s"
+msgstr ""
+
+#: admin/cmb/includes/CMB2_Base.php:458
+#, php-format
+msgid "%1$s was called with a parameter that is <strong>deprecated</strong> since version %2$s with no alternative available."
+msgstr ""
+
+#: admin/cmb/includes/CMB2_Options_Hookup.php:126
+msgid "Nothing to update."
+msgstr ""
+
+#: admin/cmb/includes/CMB2_Options_Hookup.php:130
+msgid "Settings updated."
+msgstr ""
+
+#: admin/cmb/includes/CMB2_Types.php:231
+msgid "Custom CMB2 field type classes must extend CMB2_Type_Base."
+msgstr ""
+
+#: admin/cmb/includes/CMB2_hookup.php:458
+#, php-format
+msgid "Toggle panel: %s"
+msgstr ""
+
+#: admin/cmb/includes/rest-api/CMB2_REST_Controller.php:257
+msgid "This box does not have read permissions."
+msgstr ""
+
+#: admin/cmb/includes/rest-api/CMB2_REST_Controller.php:277
+msgid "This box does not have write permissions."
+msgstr ""
+
+#: admin/cmb/includes/rest-api/CMB2_REST_Controller.php:300
+msgid "No box found by that id. A box needs to be registered with the \"show_in_rest\" parameter configured."
+msgstr ""
+
+#: admin/cmb/includes/rest-api/CMB2_REST_Controller.php:378
+msgid "A human-readable description of the object."
+msgstr ""
+
+#: admin/cmb/includes/rest-api/CMB2_REST_Controller.php:385
+msgid "The id for the object."
+msgstr ""
+
+#: admin/cmb/includes/rest-api/CMB2_REST_Controller.php:392
+msgid "The title for the object."
+msgstr ""
+
+#: admin/cmb/includes/rest-api/CMB2_REST_Controller_Boxes.php:51
+msgid "Includes the registered fields for the box in the response."
+msgstr ""
+
+#: admin/cmb/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+msgid "Includes the fully rendered attributes, 'form_open', 'form_close', as well as the enqueued 'js_dependencies' script handles, and 'css_dependencies' stylesheet handles."
+msgstr ""
+
+#: admin/cmb/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+msgid "No boxes found."
+msgstr ""
+
+#: admin/cmb/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+msgid "Includes the box object which the fields are registered to in the response."
+msgstr ""
+
+#: admin/cmb/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+msgid "When the '_rendered' argument is passed, the renderable field attributes will be returned fully rendered. By default, the names of the callback handers for the renderable attributes will be returned."
+msgstr ""
+
+#: admin/cmb/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: admin/cmb/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+msgid "To view or modify the field's value, the 'object_id' and 'object_type' arguments are required."
+msgstr ""
+
+#: admin/cmb/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+msgid "CMB2 Field value cannot be updated without the value parameter specified."
+msgstr ""
+
+#: admin/cmb/includes/rest-api/CMB2_REST_Controller_Fields.php:297
+msgid "CMB2 Field value cannot be modified without the object_id and object_type parameters specified."
+msgstr ""
+
+#: admin/cmb/includes/rest-api/CMB2_REST_Controller_Fields.php:312
+#: admin/cmb/includes/rest-api/CMB2_REST_Controller_Fields.php:341
+msgid "No field found by that id."
+msgstr ""
+
+#: admin/cmb/includes/rest-api/CMB2_REST_Controller_Fields.php:415
+#, php-format
+msgid "Value Error for %s"
+msgstr ""
+
+#: admin/cmb/includes/shim/WP_REST_Controller.php:25
+#, php-format
+msgid "Method '%s' must be overridden."
+msgstr ""
+
+#: admin/cmb/includes/shim/WP_REST_Controller.php:35
+#: admin/cmb/includes/shim/WP_REST_Controller.php:47
+#: admin/cmb/includes/shim/WP_REST_Controller.php:59
+#: admin/cmb/includes/shim/WP_REST_Controller.php:71
+#: admin/cmb/includes/shim/WP_REST_Controller.php:83
+#: admin/cmb/includes/shim/WP_REST_Controller.php:95
+#: admin/cmb/includes/shim/WP_REST_Controller.php:107
+#: admin/cmb/includes/shim/WP_REST_Controller.php:119
+#: admin/cmb/includes/shim/WP_REST_Controller.php:131
+#: admin/cmb/includes/shim/WP_REST_Controller.php:143
+#: admin/cmb/includes/shim/WP_REST_Controller.php:155
+#: admin/cmb/includes/shim/WP_REST_Controller.php:168
+#, php-format
+msgid "Method '%s' not implemented. Must be overridden in subclass."
+msgstr ""
+
+#: admin/cmb/includes/shim/WP_REST_Controller.php:273
+msgid "Current page of the collection."
+msgstr ""
+
+#: admin/cmb/includes/shim/WP_REST_Controller.php:281
+msgid "Maximum number of items to be returned in result set."
+msgstr ""
+
+#: admin/cmb/includes/shim/WP_REST_Controller.php:290
+msgid "Limit results to those matching a string."
+msgstr ""
+
+#: admin/cmb/includes/shim/WP_REST_Controller.php:308
+msgid "Scope under which the request is made; determines fields present in response."
+msgstr ""
+
+#: admin/options_assets/extensions/advanced_customizer/extension_advanced_customizer.php:735
+#: admin/redux/core/enqueue.php:453
+#: admin/redux/inc/extensions/customizer/extension_customizer.php:685
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: admin/options_assets/extensions/advanced_customizer/extension_advanced_customizer.php:736
+#: admin/redux/core/enqueue.php:461
+#: admin/redux/inc/extensions/customizer/extension_customizer.php:686
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: admin/options_assets/extensions/advanced_customizer/extension_advanced_customizer.php:737
+#: admin/redux/core/enqueue.php:477
+#: admin/redux/inc/extensions/customizer/extension_customizer.php:687
+msgid "Your current options will be replaced with the values of this preset. Would you like to proceed?"
+msgstr ""
+
+#: admin/options_assets/extensions/advanced_customizer/extension_advanced_customizer.php:770
+#: admin/redux/inc/extensions/customizer/extension_customizer.php:720
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: admin/options_assets/extensions/advanced_customizer/extension_advanced_customizer.php:771
+#: admin/redux/inc/extensions/customizer/extension_customizer.php:721
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: admin/options_assets/extensions/advanced_customizer/extension_advanced_customizer.php:772
+#: admin/redux/inc/extensions/customizer/extension_customizer.php:722
+msgid "Your current options will be replaced with the values of this preset.  Would you like to proceed?"
+msgstr ""
+
+#: admin/options_assets/extensions/advanced_customizer/inc/advanced_customizer_panel.php:54
+#: admin/options_assets/extensions/advanced_customizer/inc/advanced_customizer_panel.php:78
+msgid "Press return or enter to open this panel"
+msgstr ""
+
+#: admin/options_assets/extensions/advanced_customizer/inc/advanced_customizer_section.php:35
+#, php-format
+msgid "Customizing &#9656; %s"
+msgstr ""
+
+#: admin/options_assets/extensions/advanced_customizer/inc/advanced_customizer_section.php:37
+msgid "Customizing"
+msgstr ""
+
+#: admin/options_assets/extensions/advanced_customizer/inc/advanced_customizer_section.php:61
+#: admin/redux/inc/extensions/customizer/inc/customizer_section.php:72
+msgid "Press return or enter to open"
+msgstr ""
+
+#: admin/options_assets/extensions/advanced_customizer/inc/advanced_customizer_section.php:67
+#: admin/redux/inc/extensions/customizer/inc/customizer_panel.php:138
+#: admin/redux/inc/extensions/customizer/inc/customizer_section.php:79
+msgid "Back"
+msgstr ""
+
+#: admin/options_assets/extensions/advanced_customizer/inc/advanced_customizer_section.php:106
+#: admin/redux/inc/extensions/customizer/inc/customizer_section.php:122
+msgid "Press return or enter to expand"
+msgstr ""
+
+#: admin/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:50
+msgid "Icon"
+msgstr ""
+
+#: admin/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:55
+#: admin/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:53
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: admin/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:110
+#: admin/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:178
+msgid "Upload Icon"
+msgstr ""
+
+#: admin/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:116
+#: admin/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:180
+#: admin/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:115
+#: admin/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:161
+#: admin/redux/inc/fields/background/field_background.php:321
+#: admin/redux/inc/fields/media/field_media.php:205
+#: admin/redux/inc/fields/multi_text/field_multi_text.php:69
+#: admin/redux/inc/fields/multi_text/field_multi_text.php:73
+#: admin/redux/inc/fields/multi_text/field_multi_text.php:76
+msgid "Remove"
+msgstr ""
+
+#: admin/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:119
+#: admin/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:184
+msgid "Select an Icon"
+msgstr ""
+
+#: admin/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:139
+#: admin/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:203
+#: admin/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:121
+#: admin/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:166
+msgid "URL"
+msgstr ""
+
+#: admin/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:140
+#: admin/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:205
+#: admin/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:122
+#: admin/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:168
+msgid "Title"
+msgstr ""
+
+#: admin/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:141
+#: admin/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:207
+#: admin/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:123
+#: admin/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:170
+msgid "Description"
+msgstr ""
+
+#: admin/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:142
+#: admin/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:209
+msgid "Icon Link"
+msgstr ""
+
+#: admin/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:146
+#: admin/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:214
+#: admin/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:128
+#: admin/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:177
+msgid "Open Link in New Tab/Window"
+msgstr ""
+
+#: admin/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:156
+#: admin/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:223
+msgid "Delete Icon"
+msgstr ""
+
+#: admin/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:226
+msgid "Add Icon"
+msgstr ""
+
+#: admin/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:48
+msgid "Slide"
+msgstr ""
+
+#: admin/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:108
+#: admin/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:159
+#: admin/redux/inc/fields/background/field_background.php:314
+#: admin/redux/inc/fields/media/field_media.php:198
+msgid "Upload"
+msgstr ""
+
+#: admin/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:124
+#: admin/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:172
+msgid "Slide Link"
+msgstr ""
+
+#: admin/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:137
+#: admin/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:185
+msgid "Delete Slide"
+msgstr ""
+
+#: admin/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:188
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: admin/redux/core/enqueue.php:469
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: admin/redux/core/enqueue.php:484
+msgid "Please Wait"
+msgstr ""
+
+#: admin/redux/core/enqueue.php:495
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+
+#: admin/redux/core/enqueue.php:496
+msgid "There was a problem with your action. Please try again or reload the page."
+msgstr ""
+
+#: admin/redux/core/panel.php:65
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: admin/redux/core/panel.php:141
+msgid "Settings Imported!"
+msgstr ""
+
+#: admin/redux/core/panel.php:156
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: admin/redux/core/panel.php:170
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: admin/redux/core/panel.php:184
+msgid "Settings Saved!"
+msgstr ""
+
+#: admin/redux/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: admin/redux/core/panel.php:212
+msgid "error(s) were found!"
+msgstr ""
+
+#: admin/redux/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr ""
+
+#: admin/redux/core/panel.php:312
+msgid "<strong>Your panel has bundled outdated copies of Redux Framework template files</strong> &#8211; if you encounter functionality issues this could be the reason. Ensure you update or remove them."
+msgstr ""
+
+#: admin/redux/framework.php:220
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: admin/redux/framework.php:220
+msgid "Redux Framework"
+msgstr ""
+
+#: admin/redux/framework.php:224 admin/redux/framework.php:228
+msgid "Options"
+msgstr ""
+
+#: admin/redux/framework.php:1731
+msgid "Enable"
+msgstr ""
+
+#: admin/redux/framework.php:1736
+msgid "Disable"
+msgstr ""
+
+#: admin/redux/framework.php:1742
+msgid "moving the mouse over"
+msgstr ""
+
+#: admin/redux/framework.php:1744
+msgid "clicking"
+msgstr ""
+
+#: admin/redux/framework.php:1748
+#, php-format
+msgid "Hints are tooltips that popup when %d the hint icon, offering addition information about the field in which they appear.  They can be %d d by using the link below."
+msgstr ""
+
+#: admin/redux/framework.php:1753
+msgid "Hints"
+msgstr ""
+
+#: admin/redux/framework.php:1880 kadence-related-content.php:242
+msgid "Default"
+msgstr ""
+
+#: admin/redux/framework.php:2758
+msgid "Invalid security credential.  Please reload the page and try again."
+msgstr ""
+
+#: admin/redux/framework.php:2767
+msgid "Invalid user capability.  Please reload the page and try again."
+msgstr ""
+
+#: admin/redux/framework.php:2847
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: admin/redux/inc/class.redux_cdn.php:74
+msgid "Please wait a few minutes, then try refreshing the page. Unable to load some remotely hosted scripts."
+msgstr ""
+
+#: admin/redux/inc/class.redux_cdn.php:76
+#, php-format
+msgid "If you are developing offline, please download and install the <a href=\"%s\" target=\"_blank\">Redux Vendor Support</a> plugin/extension to bypass the our CDN and avoid this warning"
+msgstr ""
+
+#: admin/redux/inc/class.redux_cdn.php:81
+msgid "Redux Framework Warning"
+msgstr ""
+
+#: admin/redux/inc/class.redux_cdn.php:81
+#, php-format
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr ""
+
+#: admin/redux/inc/class.redux_cdn.php:113
+#, php-format
+msgid "The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not installed or not activated and thus, some controls may not render properly.  Please ensure that it is installed and <a href=\"%s\">activated</a>"
+msgstr ""
+
+#: admin/redux/inc/class.redux_filesystem.php:32
+#: admin/redux/inc/class.redux_filesystem.php:61
+#: admin/redux/inc/class.redux_filesystem.php:272
+msgid "File Permission Issues"
+msgstr ""
+
+#: admin/redux/inc/class.redux_filesystem.php:32
+#, php-format
+msgid "We were unable to modify required files. Please check your permissions, or modify your wp-config.php file to contain your FTP login credentials as <a href=\"%s\" target=\"_blank\">outlined here</a>."
+msgstr ""
+
+#: admin/redux/inc/class.redux_filesystem.php:61
+#: admin/redux/inc/class.redux_filesystem.php:272
+#, php-format
+msgid "We were unable to modify required files. Please ensure that <code>%1s</code> has the proper read-write permissions, or modify your wp-config.php file to contain your FTP login credentials as <a href=\"%2s\" target=\"_blank\">outlined here</a>."
+msgstr ""
+
+#: admin/redux/inc/class.redux_helpers.php:610
+#, php-format
+msgid "<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of date. The core version is %s"
+msgstr ""
+
+#: admin/redux/inc/extensions/customizer/inc/customizer_panel.php:114
+#: admin/redux/inc/extensions/customizer/inc/customizer_panel.php:142
+#, php-format
+msgid "You are customizing %s"
+msgstr ""
+
+#: admin/redux/inc/extensions/customizer/inc/customizer_panel.php:146
+msgid "Help"
+msgstr ""
+
+#: admin/redux/inc/extensions/import_export/extension_import_export.php:120
+msgid "Import / Export"
+msgstr ""
+
+#: admin/redux/inc/extensions/import_export/import_export/field_import_export.php:104
+msgid "Input your backup file below and hit Import to restore your sites options from a backup."
+msgstr ""
+
+#: admin/redux/inc/extensions/import_export/import_export/field_import_export.php:111
+msgid "Input the URL to another sites options set and hit Import to load the options from that site."
+msgstr ""
+
+#: admin/redux/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid "WARNING! This will overwrite all existing option values, please proceed with caution!"
+msgstr ""
+
+#: admin/redux/inc/extensions/import_export/import_export/field_import_export.php:124
+msgid "Here you can copy/download your current option settings. Keep this safe as you can use it as a backup should anything go wrong, or you can use it to restore your settings on this site (or any other site)."
+msgstr ""
+
+#: admin/redux/inc/extensions/options_object/extension_options_object.php:82
+msgid "Options Object"
+msgstr ""
+
+#: admin/redux/inc/fields/background/field_background.php:124
+#: admin/redux/inc/fields/color/field_color.php:73
+msgid "Transparent"
+msgstr ""
+
+#: admin/redux/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: admin/redux/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: admin/redux/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: admin/redux/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: admin/redux/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: admin/redux/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: admin/redux/inc/fields/background/field_background.php:277
+#: admin/redux/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr ""
+
+#: admin/redux/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr ""
+
+#: admin/redux/inc/fields/select/field_select.php:83
+msgid "Select an item"
+msgstr ""
+
+#: admin/redux/inc/fields/select/field_select.php:134
+msgid "No items of this type were found."
+msgstr ""
+
+#: admin/redux/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: admin/redux/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: admin/redux/inc/fields/typography/field_typography.php:231
+msgid "Font Family"
+msgstr ""
+
+#: admin/redux/inc/fields/typography/field_typography.php:232
+msgid "Font family"
+msgstr ""
+
+#: admin/redux/inc/fields/typography/field_typography.php:258
+#: admin/redux/inc/fields/typography/field_typography.php:259
+msgid "Backup Font Family"
+msgstr ""
+
+#: admin/redux/inc/fields/typography/field_typography.php:273
+#: admin/redux/inc/fields/typography/field_typography.php:281
+msgid "Font style"
+msgstr ""
+
+#: admin/redux/inc/fields/typography/field_typography.php:274
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: admin/redux/inc/fields/typography/field_typography.php:281
+msgid "Style"
+msgstr ""
+
+#: admin/redux/inc/fields/typography/field_typography.php:321
+msgid "Font subsets"
+msgstr ""
+
+#: admin/redux/inc/fields/typography/field_typography.php:323
+msgid "Font Subsets"
+msgstr ""
+
+#: admin/redux/inc/fields/typography/field_typography.php:325
+msgid "Subsets"
+msgstr ""
+
+#: admin/redux/inc/fields/typography/field_typography.php:325
+msgid "Font script"
+msgstr ""
+
+#: admin/redux/inc/fields/typography/field_typography.php:342
+#: admin/redux/inc/fields/typography/field_typography.php:343
+#: admin/redux/inc/fields/typography/field_typography.php:344
+msgid "Text Align"
+msgstr ""
+
+#: admin/redux/inc/fields/typography/field_typography.php:365
+#: admin/redux/inc/fields/typography/field_typography.php:366
+#: admin/redux/inc/fields/typography/field_typography.php:367
+msgid "Text Transform"
+msgstr ""
+
+#: admin/redux/inc/fields/typography/field_typography.php:388
+#: admin/redux/inc/fields/typography/field_typography.php:389
+#: admin/redux/inc/fields/typography/field_typography.php:390
+msgid "Font Variant"
+msgstr ""
+
+#: admin/redux/inc/fields/typography/field_typography.php:408
+#: admin/redux/inc/fields/typography/field_typography.php:409
+#: admin/redux/inc/fields/typography/field_typography.php:410
+msgid "Text Decoration"
+msgstr ""
+
+#: admin/redux/inc/fields/typography/field_typography.php:432
+#: admin/redux/inc/fields/typography/field_typography.php:433
+msgid "Font Size"
+msgstr ""
+
+#: admin/redux/inc/fields/typography/field_typography.php:433
+msgid "Size"
+msgstr ""
+
+#: admin/redux/inc/fields/typography/field_typography.php:441
+#: admin/redux/inc/fields/typography/field_typography.php:442
+msgid "Line Height"
+msgstr ""
+
+#: admin/redux/inc/fields/typography/field_typography.php:442
+msgid "Height"
+msgstr ""
+
+#: admin/redux/inc/fields/typography/field_typography.php:450
+#: admin/redux/inc/fields/typography/field_typography.php:451
+msgid "Word Spacing"
+msgstr ""
+
+#: admin/redux/inc/fields/typography/field_typography.php:459
+#: admin/redux/inc/fields/typography/field_typography.php:460
+msgid "Letter Spacing"
+msgstr ""
+
+#: admin/redux/inc/fields/typography/field_typography.php:478
+msgid "Font Color"
+msgstr ""
+
+#: admin/redux/inc/fields/typography/field_typography.php:480
+msgid "Font color"
+msgstr ""
+
+#: admin/redux/inc/fields/typography/field_typography.php:890
+msgid "Standard Fonts"
+msgstr ""
+
+#: admin/redux/inc/fields/typography/field_typography.php:991
+msgid "Google Webfonts"
+msgstr ""
+
+#: admin/redux/inc/themecheck/checks/embedded.php:15
+#, php-format
+msgid "<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: If you are submitting to WordPress.org Theme Repository, it is <strong>strongly</strong> suggested that you read <a href=\"%s\" target=\"_blank\">this document</a>, or your theme will be rejected because of Redux."
+msgstr ""
+
+#: admin/redux/inc/themecheck/checks/embedded.php:24
+#, php-format
+msgid "<span class=\"tc-lead tc-required\">REQUIRED</span>: You MUST delete <strong> %s </strong>, or your theme will be rejected by WP.org theme submission because of Redux."
+msgstr ""
+
+#: admin/redux/inc/themecheck/checks/embedded.php:38
+msgid "Optional"
+msgstr ""
+
+#: admin/redux/inc/themecheck/checks/embedded.php:40
+msgid "<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: The following arguments MUST be used for WP.org submissions, or you will be rejected because of your Redux configuration."
+msgstr ""
+
+#: admin/redux/inc/themecheck/checks/full_package.php:16
+msgid "Redux localization utilities"
+msgstr ""
+
+#: admin/redux/inc/themecheck/checks/full_package.php:17
+msgid "Redux Resting Diles"
+msgstr ""
+
+#: admin/redux/inc/themecheck/checks/full_package.php:18
+msgid "Redux Code Styles"
+msgstr ""
+
+#: admin/redux/inc/themecheck/checks/full_package.php:19
+msgid "Redux Unit Testing"
+msgstr ""
+
+#: admin/redux/inc/themecheck/checks/full_package.php:20
+msgid "Redux Plugin File"
+msgstr ""
+
+#: admin/redux/inc/themecheck/checks/full_package.php:21
+msgid "Redux Boostrap Tests"
+msgstr ""
+
+#: admin/redux/inc/themecheck/checks/full_package.php:22
+msgid "CI Testing FIle"
+msgstr ""
+
+#: admin/redux/inc/themecheck/checks/full_package.php:23
+msgid "PHP Unit Testing"
+msgstr ""
+
+#: admin/redux/inc/themecheck/checks/full_package.php:36
+msgid "It appears that you have embedded the full Redux package inside your theme. You need only embed the <strong>ReduxCore</strong> folder. Embedding anything else will get your rejected from theme submission. Suspected Redux package file(s):"
+msgstr ""
+
+#: admin/redux/inc/validation/color/validation_color.php:15
+#: admin/redux/inc/validation/color_rgba/validation_color_rgba.php:14
+#: admin/redux/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: admin/redux/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid "You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: admin/redux/inc/validation/css/validation_css.php:39
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: admin/redux/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: admin/redux/inc/validation/email/validation_email.php:16
+#: admin/redux/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: admin/redux/inc/validation/no_html/validation_no_html.php:15
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: admin/redux/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid "You must not enter any special characters in this field, all special characters have been removed."
+msgstr ""
+
+#: admin/redux/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: admin/redux/inc/validation/numeric/validation_numeric.php:16
+#: admin/redux/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: admin/redux/inc/validation/unique_slug/validation_unique_slug.php:16
+#, php-format
+msgid "That URL slug is in use, please choose another. <code>%s</code> is open for use."
+msgstr ""
+
+#: admin/redux/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: admin/redux/templates/panel/footer.tpl.php:57
+#: admin/redux/templates/panel/header_stickybar.tpl.php:21
+msgid "Save Changes"
+msgstr ""
+
+#: admin/redux/templates/panel/footer.tpl.php:61
+#: admin/redux/templates/panel/header_stickybar.tpl.php:25
+msgid "Reset Section"
+msgstr ""
+
+#: admin/redux/templates/panel/footer.tpl.php:62
+#: admin/redux/templates/panel/header_stickybar.tpl.php:26
+msgid "Reset All"
+msgstr ""
+
+#: admin/redux/templates/panel/footer.tpl.php:67
+#: admin/redux/templates/panel/header_stickybar.tpl.php:29
+msgid "Working..."
+msgstr ""
+
+#: admin/redux/templates/panel/header.tpl.php:11
+#: admin/redux/templates/panel/header.tpl.php:49
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: admin/redux/templates/panel/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: admin/redux/templates/panel/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: admin/redux/templates/panel/header.tpl.php:31
+msgid "and"
+msgstr ""
+
+#: admin/redux/templates/panel/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr ""
+
+#: admin/redux/templates/panel/header.tpl.php:36
+msgid "If you are not a developer, your theme/plugin author shipped with developer mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: admin/redux/templates/panel/header.tpl.php:58
+msgid "FORCED DEV MODE OFF ENABLED"
+msgstr ""
+
+#: admin/redux/templates/panel/header_stickybar.tpl.php:15
+msgid "Expand"
+msgstr ""
+
+#: kadence-related-content.php:95
+msgid "Read More"
+msgstr ""
+
+#: kadence-related-content.php:122
+msgid "not rated"
+msgstr ""
+
+#: kadence-related-content.php:224
+msgid "Related Content Carousel Options"
+msgstr ""
+
+#: kadence-related-content.php:230
+msgid "Carousel Title"
+msgstr ""
+
+#: kadence-related-content.php:237
+msgid "Carousel Columns"
+msgstr ""
+
+#: kadence-related-content.php:238
+msgid "Select how many columns you would like to show at once."
+msgstr ""
+
+#: kadence-related-content.php:243
+msgid "Two"
+msgstr ""
+
+#: kadence-related-content.php:244
+msgid "Three"
+msgstr ""
+
+#: kadence-related-content.php:245
+msgid "Four"
+msgstr ""
+
+#: kadence-related-content.php:246
+msgid "Five"
+msgstr ""
+
+#: kadence-related-content.php:247
+msgid "Six"
+msgstr ""
+
+#: kadence-related-content.php:253
+msgid "Related Posts, Products or Pages"
+msgstr ""
+
+#: kadence-related-content.php:254
+msgid "Select the posts you want to be added to the related content carousel"
+msgstr ""
+
+#: kadence-related-content.php:304
+msgid "You might also be interested in..."
+msgstr ""

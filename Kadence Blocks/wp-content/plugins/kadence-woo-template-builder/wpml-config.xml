@@ -1,0 +1,11 @@
+<wpml-config>
+	<admin-texts>
+		<key name="kadence_woo_templates">
+			<key name="single_product_default" />
+			<key name="shop_product_default" />
+			<key name="category_product_default" />
+			<key name="tag_product_default" />
+			<key name="checkout_default" />
+		</key>
+	</admin-texts>
+</wpml-config>
